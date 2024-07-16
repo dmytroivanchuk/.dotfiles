@@ -18,5 +18,5 @@ require("lazy").setup({
   spec = {
     { import = "plugins" },
   },
-  install = { colorscheme = { "default" } },
+  install = { colorscheme = { "github_light_default" } },
 })

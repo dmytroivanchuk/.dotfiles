@@ -5,7 +5,7 @@ return {
             add = { text = "+" },
             change = { text = "~" }
         },
-        signs_unstaged = {
+        signs_staged = {
             add = { text = "+" },
             change = { text = "~" }
         },
